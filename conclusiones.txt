@@ -1,0 +1,6 @@
+Durante el desarrollo de este proyecto, aprendí a construir una red neuronal simple usando TensorFlow/Keras y a compararla con un modelo de regresión lineal.
+
+Conclusiones:
+- La red neuronal mejoró las predicciones al usar múltiples variables.
+- El manejo de datos y la normalización fueron claves para un buen desempeño.
+- GitHub permitió mantener un seguimiento ordenado del desarrollo.
